@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pdf-word-counter"
-version = "0.3.2"
+version = "0.3.3"
 description = "Search PDF files for specific words and generate frequency statistics."
 readme = "README.md"
 requires-python = ">=3.8"

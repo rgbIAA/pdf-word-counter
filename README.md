@@ -3,6 +3,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![PyPI](https://img.shields.io/pypi/v/pdf-word-counter)](https://pypi.org/project/pdf-word-counter/)
+[![DOI](https://zenodo.org/badge/985620207.svg)](https://doi.org/10.5281/zenodo.15460201)
 
 A tool to search PDF files for specific words and generate frequency statistics.
 Supports both PyPDF2 and pdfminer.six backends, with output to Astropy or Pandas formats.
@@ -118,5 +119,9 @@ MIT
 This code was used in the research published as:
 
 García-Benito, Rubén (2025). **Beyond Universality: Cultural Diversity in Music and Its Implications for Sound Design and Sonification**. *Audio Mostly & ICAD Joint Conference (AM.ICAD 2025)*. Association for Computing Machinery, June 30 – July 4, 2025, Coimbra, Portugal
+
+The code version corresponding to this publication is archived and can be cited using the DOI:
+
+[![DOI](https://zenodo.org/badge/985620207.svg)](https://doi.org/10.5281/zenodo.15460201)
 
 If you use this software in your research or adaptations, please cite the above paper and this repository accordingly.
