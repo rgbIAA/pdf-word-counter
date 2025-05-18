@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![PyPI](https://img.shields.io/pypi/v/pdf-word-counter)
+[![PyPI](https://img.shields.io/pypi/v/pdf-word-counter)](https://pypi.org/project/pdf-word-counter/)
 
 A tool to search PDF files for specific words and generate frequency statistics.
 Supports both PyPDF2 and pdfminer.six backends, with output to Astropy or Pandas formats.
