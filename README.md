@@ -113,3 +113,11 @@ results = search_pdfs(
 
 ## License
 MIT
+
+## How to Cite
+This code was used in the research published as:
+
+García-Benito, Rubén (2025). **Beyond Universality: Cultural Diversity in Music and Its Implications for Sound Design and Sonification**.  
+*Audio Mostly & ICAD Joint Conference (AM.ICAD 2025)*. Association for Computing Machinery, June 30 – July 4, 2025, Coimbra, Portugal
+
+If you use this software in your research or adaptations, please cite the above paper and this repository accordingly.
